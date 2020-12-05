@@ -1,1 +1,1 @@
-# google-homepage
+I am just started with programming.  This is very confusing, but I guess that means I am learning.  I am working with my 12 year old daughter so that she can code by the time she is in high school.
